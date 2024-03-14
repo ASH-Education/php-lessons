@@ -1,0 +1,24 @@
+1* work on server side;
+2* freeLanguage;
+3* open source
+4* repo on github
+5* old facebook, wordPress, most sms;
+6* seacrch "famous wbsites that use php in 2024";
+
+// why php //
+* easy install *
+* big community for support *
+* laravl frame work *
+* work with many dataBases *
+* work whith all hosting serveses *
+
+what can you do with php
+* crate dynamic pages *
+
+crate open read write delete
+deal with dataBases
+deal with images
+
+* what learn *
+* core, oop, mvc pattern *
+some programming language
