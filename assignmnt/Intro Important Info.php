@@ -1,7 +1,8 @@
+<!-- one -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="">
+    <meta charset=<?='utf-8'?>>
     <?php
 //        header('Content-Type: text/html; charset=utf-8');
     ?>
@@ -11,6 +12,27 @@
 </head>
 <body>
     <div> <?php echo "We Love" ?> </div>
-    <div> <?php echo " Elzero Channel" ?> </div>
+    <div> <?php echo "El zero Channel" ?> </div>
 </body>
 </html>
+
+<!-- two comments in php -->
+<?php
+// echo 'Prevent Me From Running Please';
+# echo 'Prevent Me From Running Please';
+/* echo 'Prevent Me From Running Please'; */
+?>
+
+<!-- three multi lines -->
+/*
+    My Application
+    Version 1.0
+    Created By El zero
+*/
+
+<!-- four fix comments "all comments true" -->
+
+// ## First Comment
+# // # Second Comment
+/* /* /* Third Comment */
+////// Fourth Comment
